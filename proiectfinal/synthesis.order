@@ -1,0 +1,13 @@
+i<>.\src\BinaryToBcd.vhd
+i<>.\src\comparator.vhd
+i<>.\src\Display.vhd
+i<>.\src\div.vhd
+i<>.\src\nummin.vhd
+i<>.\src\numora.vhd
+i<>.\src\numsec.vhd
+i<>.\src\numtemp.vhd
+i<>.\src\termostat.vhd
+i<>.\src\afisooor.vhd
+i<>.\src\memram.vhd
+i<>.\src\modul sim.vhd
+i<>.\src\mux21.vhd

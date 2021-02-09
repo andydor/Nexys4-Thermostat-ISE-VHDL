@@ -1,0 +1,46 @@
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# Design Explorer: Shortcut to "C:\my_designs1\proiectfinal 8 digit\proiectfinal.aws" design added.
+acom -O3 -work proiectfinal -2002  $dsn/src/BinaryToBcd.vhd $dsn/src/comparator.vhd $dsn/src/Display.vhd $dsn/src/div.vhd $dsn/src/nummin.vhd $dsn/src/numora.vhd $dsn/src/numsec.vhd $dsn/src/numtemp.vhd $dsn/src/afisooor.vhd $dsn/src/memram.vhd $dsn/src/termostat.vhd "$dsn/src/modul sim.vhd" $dsn/src/mux21.vhd
+# Compile...
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints, code coverage, and assertion debug will not be available.
+# File: C:\my_designs1\proiectfinal 8 digit\proiectfinal\src\BinaryToBcd.vhd
+# Compile Entity "BinaryToBCD"
+# Compile Architecture "A" of Entity "BinaryToBCD"
+# File: C:\my_designs1\proiectfinal 8 digit\proiectfinal\src\comparator.vhd
+# Compile Entity "compare"
+# Compile Architecture "Behavioral" of Entity "compare"
+# File: C:\my_designs1\proiectfinal 8 digit\proiectfinal\src\Display.vhd
+# Compile Entity "Display"
+# Compile Architecture "Arch_Display" of Entity "Display"
+# File: C:\my_designs1\proiectfinal 8 digit\proiectfinal\src\div.vhd
+# Compile Entity "ClockPrescaler"
+# Compile Architecture "Behavioral" of Entity "ClockPrescaler"
+# File: C:\my_designs1\proiectfinal 8 digit\proiectfinal\src\nummin.vhd
+# Compile Entity "nummin"
+# Compile Architecture "nummin_arc" of Entity "nummin"
+# File: C:\my_designs1\proiectfinal 8 digit\proiectfinal\src\numora.vhd
+# Compile Entity "numora"
+# Compile Architecture "numora_arh" of Entity "numora"
+# File: C:\my_designs1\proiectfinal 8 digit\proiectfinal\src\numsec.vhd
+# Compile Entity "numsec"
+# Compile Architecture "numsec_arc" of Entity "numsec"
+# File: C:\my_designs1\proiectfinal 8 digit\proiectfinal\src\numtemp.vhd
+# Compile Entity "numtemp"
+# Compile Architecture "numtemp_arh" of Entity "numtemp"
+# File: C:\my_designs1\proiectfinal 8 digit\proiectfinal\src\afisooor.vhd
+# Compile Entity "eAfisare"
+# Compile Architecture "aAfisare" of Entity "eAfisare"
+# File: C:\my_designs1\proiectfinal 8 digit\proiectfinal\src\memram.vhd
+# Compile Entity "raminfr"
+# Compile Architecture "syn" of Entity "raminfr"
+# File: C:\my_designs1\proiectfinal 8 digit\proiectfinal\src\termostat.vhd
+# Compile Entity "termostat"
+# Compile Architecture "ex" of Entity "termostat"
+# File: C:\my_designs1\proiectfinal 8 digit\proiectfinal\src\modul sim.vhd
+# Compile Entity "MS"
+# Compile Architecture "MS_arh" of Entity "MS"
+# File: C:\my_designs1\proiectfinal 8 digit\proiectfinal\src\mux21.vhd
+# Compile Entity "mux_2to1_top"
+# Compile Architecture "Behavioral" of Entity "mux_2to1_top"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.9 [s]

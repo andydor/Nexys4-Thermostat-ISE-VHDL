@@ -1,0 +1,33 @@
+2445
+~E 1 "./src/BinaryToBcd.vhd" 6 BinaryToBCD
+~A 1 "./src/BinaryToBcd.vhd" 12 A
+~E 1 "./src/div.vhd" 5 ClockPrescaler
+~A 1 "./src/div.vhd" 10 Behavioral
+~E 1 "./src/comparator.vhd" 4 compare
+~A 1 "./src/comparator.vhd" 12 Behavioral
+~E 1 "./src/Display.vhd" 6 Display
+~A 1 "./src/Display.vhd" 13 Arch_Display
+~E 1 "./src/demux12.vhd" 4 dmux_1t2
+~E 1 "./src/afisooor.vhd" 5 eAfisare
+~A 1 "./src/afisooor.vhd" 19 aAfisare
+~E 1 "./src/afisooor.vhd" 5 eAfisareDistanta
+~A 1 "./src/afisooor.vhd" 15 aAfisareDistanta
+~E 1 "./src/memram1.vhd" 6 fifo1_2
+~E 1 "./src/modul sim.vhd" 6 MS
+~A 1 "./src/modul sim.vhd" 9 MS_arh
+~E 1 "./src/mux21.vhd" 4 mux_2to1_top
+~A 1 "./src/mux21.vhd" 11 Behavioral
+~E 1 "./src/nummin.vhd" 6 nummin
+~A 1 "./src/nummin.vhd" 14 nummin_arc
+~E 1 "./src/numora.vhd" 6 numora
+~A 1 "./src/numora.vhd" 13 numora_arh
+~E 1 "./src/numsec.vhd" 6 numsec
+~A 1 "./src/numsec.vhd" 13 numsec_arc
+~E 1 "./src/numtemp.vhd" 6 numtemp
+~A 1 "./src/numtemp.vhd" 13 numtemp_arh
+~E 1 "./src/andgate.vhd" 6 poarta_si
+~A 1 "./src/andgate.vhd" 11 si
+~E 1 "./src/memram.vhd" 5 raminfr
+~A 1 "./src/memram.vhd" 14 syn
+~E 1 "./src/termostat.vhd" 4 termostat
+~A 1 "./src/termostat.vhd" 12 ex

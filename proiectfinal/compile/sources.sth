@@ -1,0 +1,21 @@
+[Files List]
+C:\Aldec\Active-HDL 9.1\Vlib\std/src/standard.vhd=S
+C:\Aldec\Active-HDL 9.1\Vlib\std/src/textio.vhd=S
+C:\Aldec\Active-HDL 9.1\VLIB\ieee/src/std_logic_1164.vhdl=S
+C:\Aldec\Active-HDL 9.1\VLIB\ieee/src/std_logic_1164-body.vhdl=S
+C:\Aldec\Active-HDL 9.1\VLIB\ieee/src/arith_p.vhd=S
+C:\Aldec\Active-HDL 9.1\VLIB\ieee/src/arith_b.vhd=S
+C:\Aldec\Active-HDL 9.1\VLIB\ieee/src/unsigned_p.vhd=S
+C:\Aldec\Active-HDL 9.1\VLIB\ieee/src/unsigned_b.vhd=S
+C:\my_designs1\proiectfinal 8 digit\proiectfinal/src/BinaryToBcd.vhd=S
+C:\my_designs1\proiectfinal 8 digit\proiectfinal/src/afisooor.vhd=S
+C:\my_designs1\proiectfinal 8 digit\proiectfinal/src/Display.vhd=S
+C:\my_designs1\proiectfinal 8 digit\proiectfinal/src/numsec.vhd=S
+C:\my_designs1\proiectfinal 8 digit\proiectfinal/src/nummin.vhd=S
+C:\my_designs1\proiectfinal 8 digit\proiectfinal/src/numora.vhd=S
+C:\my_designs1\proiectfinal 8 digit\proiectfinal/src/comparator.vhd=S
+C:\my_designs1\proiectfinal 8 digit\proiectfinal/src/memram.vhd=S
+C:\my_designs1\proiectfinal 8 digit\proiectfinal/src/mux21.vhd=S
+C:\my_designs1\proiectfinal 8 digit\proiectfinal/src/numtemp.vhd=S
+C:\my_designs1\proiectfinal 8 digit\proiectfinal/src/div.vhd=S
+C:\my_designs1\proiectfinal 8 digit\proiectfinal/src/termostat.vhd=S

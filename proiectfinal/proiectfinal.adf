@@ -1,0 +1,79 @@
+[Project]
+Current Flow=Generic
+VCS=0
+version=3
+Current Config=compile
+
+[Configurations]
+compile=proiectfinal
+
+[Library]
+proiectfinal=.\proiectfinal.LIB
+
+[Settings]
+AccessRead=0
+AccessReadWrite=0
+AccessACCB=0
+AccessACCR=0
+AccessReadWriteSLP=0
+AccessReadTopLevel=1
+DisableC=1
+ENABLE_ADV_DATAFLOW=0
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+FLOWTOOLS=NONE
+FAMILY=
+fileopenfolder=C:\My_Designs\testproiect\test\src
+
+[LocalVerilogSets]
+EnableSLP=1
+EnableDebug=0
+
+[LocalVhdlSets]
+CompileWithDebug=0
+
+[$LibMap$]
+proiectfinal=.
+Active_lib=
+
+[HierarchyViewer]
+SortInfo=u
+HierarchyInformation=termostat|ex|0 
+ShowHide=ShowTopLevel
+Selected=
+
+[Files]
+/BinaryToBcd.vhd=-1
+/comparator.vhd=-1
+/Display.vhd=-1
+/div.vhd=-1
+/nummin.vhd=-1
+/numora.vhd=-1
+/numsec.vhd=-1
+/numtemp.vhd=-1
+/afisooor.vhd=-1
+/memram.vhd=-1
+/termostat.vhd=-1
+/modul sim.vhd=-1
+/mux21.vhd=-1
+/untitled.asdb=-1
+/untitled.awc=-1
+
+[Files.Data]
+.\src\BinaryToBcd.vhd=VHDL Source Code
+.\src\comparator.vhd=VHDL Source Code
+.\src\Display.vhd=VHDL Source Code
+.\src\div.vhd=VHDL Source Code
+.\src\nummin.vhd=VHDL Source Code
+.\src\numora.vhd=VHDL Source Code
+.\src\numsec.vhd=VHDL Source Code
+.\src\numtemp.vhd=VHDL Source Code
+.\src\afisooor.vhd=VHDL Source Code
+.\src\memram.vhd=VHDL Source Code
+.\src\termostat.vhd=VHDL Source Code
+.\src\modul sim.vhd=VHDL Source Code
+.\src\mux21.vhd=VHDL Source Code
+.\src\untitled.asdb=Accelerated Waveform File
+.\src\untitled.awc=Accelerated Waveform Configuration
+

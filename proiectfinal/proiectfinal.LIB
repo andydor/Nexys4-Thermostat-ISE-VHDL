@@ -1,0 +1,213 @@
+timestamp=1558261031247
+
+[binarytobcd]
+A/a=A/A 21|./src/BinaryToBcd.vhd|12|1*1396504
+BinI32/a=3*269577
+I=0*1840
+I/a=I/A 0*2868
+M=11|0|v98|1558129173244|./src/BinaryToBcd.vhd|0*1428*0x22ca30184ef2d3ef9b0e8d2393154a7c7610021f|0*1757*0xab32bc1a2daf049573e14469f634e0e6
+M/a=M/A 21|0|v98|1558261030358|./src/BinaryToBcd.vhd|0*2079*0x79441149fc85cb8daffa4bc6768931599a6c15c4|0*2780*0xb33770ff1c10522f9491560174ac8e6c
+R=./src/BinaryToBcd.vhd|6
+Version=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+Version/a=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+
+[clockprescaler]
+A/behavioral=A/Behavioral 21|./src/div.vhd|10|1*1402869
+BinI32/behavioral=3*271210
+I=0*8148
+I/behavioral=I/Behavioral 0*87748
+M=11|0|v98|1558129173514|./src/div.vhd|0*7822*0xf324cb8384416ff8948ef0e34eb70892fd8502e4|0*8070*0xab32bc1a2daf049573e14469f634e0e6
+M/behavioral=M/Behavioral 21|0|v98|1558261030644|./src/div.vhd|0*87109*0x509bde7bf6a2478bfbca75373cbba73d919d0c73|0*87656*0xb33770ff1c10522f9491560174ac8e6c
+R=./src/div.vhd|5
+Version=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+Version/behavioral=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+
+[compare]
+A/behavioral=A/Behavioral 21|./src/comparator.vhd|12|1*1398616
+BinI32/behavioral=3*270532
+I=0*3721
+I/behavioral=I/Behavioral 0*4254
+M=11|0|v98|1558129173349|./src/comparator.vhd|0*3344*0xb22803faddc0cfac8e34c42e81200f8271fdcb66|0*3643*0xab32bc1a2daf049573e14469f634e0e6
+M/behavioral=M/Behavioral 21|0|v98|1558261030472|./src/comparator.vhd|0*3822*0xe371de1af3f7358739f88f38b56a1a76bfe3cb3b|0*4162*0xb33770ff1c10522f9491560174ac8e6c
+R=./src/comparator.vhd|4
+Version=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+Version/behavioral=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+
+[display]
+A/arch_display=A/Arch_Display 21|./src/Display.vhd|13|1*1399997
+BinI32/arch_display=3*270928
+I=0*6064
+I/arch_display=I/Arch_Display 0*84135
+M=11|0|v98|1558129173459|./src/Display.vhd|0*5634*0xf99372478b2530ac16deb9465e70d6963ffe887e|0*5989*0xab32bc1a2daf049573e14469f634e0e6
+M/arch_display=M/Arch_Display 21|0|v98|1558261030581|./src/Display.vhd|0*83620*0x53fa619615f79e266f6ac0f7b3afd9fa5ef5373e|0*84044*0xb33770ff1c10522f9491560174ac8e6c
+R=./src/Display.vhd|6
+Version=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+Version/arch_display=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+
+[dmux_1t2]
+BinI32/dmux_1t2_ar=3*209888
+I=0*4891
+I/dmux_1t2_ar=0*5291
+M=11|0|v98|1558129173404|./src/demux12.vhd|0*4561*0xeeb2b97cbd5b05a43d1f8c13a35d2e0336631e80|0*4815*0xab32bc1a2daf049573e14469f634e0e6
+R=./src/demux12.vhd|4
+Version=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+Version/dmux_1t2_ar=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+
+[eafisare]
+A/aafisare=A/aAfisare 21|./src/afisooor.vhd|19|1*1410152
+BinI32/aafisare=3*273869
+I=0*89065
+I/aafisare=I/aAfisare 0*91109
+M=11|0|v98|1558207591003|./src/afisooor.vhd|0*88403*0x8b94052b1bed5421aaa1dfdaf5fa224217f1b1c3|0*88988*0xab32bc1a2daf049573e14469f634e0e6
+M/aafisare=M/aAfisare 21|0|v98|1558261030956|./src/afisooor.vhd|0*89236*0x9215647d29babbb297508a5b530ae23fe5c1c4cb|0*91020*0xb33770ff1c10522f9491560174ac8e6c
+R=./src/afisooor.vhd|5
+Version=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+Version/aafisare=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+
+[eafisaredistanta]
+A/aafisaredistanta=A/aAfisareDistanta 21|./src/afisooor.vhd|15|1*208380
+BinI32/aafisaredistanta=3*30513
+I=0*22883
+I/aafisaredistanta=I/aAfisareDistanta 0*27348
+M=11|0|v98|1558129233985|./src/afisooor.vhd|0*22341*0x187038a0bb623de510109cc5db6908f00a8cdf7c|0*22798*0xab32bc1a2daf049573e14469f634e0e6
+M/aafisaredistanta=M/aAfisareDistanta 21|0|v98|1558130624385|./src/afisooor.vhd|0*25303*0x36aa1ea9a0d13f5a2f1a74fd55bafe6ff152ddbb|0*27243*0xb33770ff1c10522f9491560174ac8e6c
+R=./src/afisooor.vhd|5
+Version=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+Version/aafisaredistanta=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+
+[fifo1_2]
+BinI32/behavioral=3*108798
+I=0*9908
+I/behavioral=I/Behavioral 0*60815
+M=11|0|v98|1558129173569|./src/memram1.vhd|0*9424*0xe4269bd1d6d47292bb66e400a7588e6dabecc2a2|0*9833*0xab32bc1a2daf049573e14469f634e0e6
+R=./src/memram1.vhd|6
+Version=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+Version/behavioral=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+
+[ms]
+A/ms_arh=A/MS_arh 21|./src/modul sim.vhd|9|1*1435815
+BinI32/ms_arh=3*277241
+I=0*72434
+I/ms_arh=I/MS_arh 0*117334
+M=11|0|v98|1558179106704|./src/modul sim.vhd|0*72161*0x9f17f9e4add5d58aad2d7f4d9c115f46e173ba61|0*72362*0xab32bc1a2daf049573e14469f634e0e6
+M/ms_arh=M/MS_arh 21|0|v98|1558261031143|./src/modul sim.vhd|0*116271*0x55623e0852051be4ea3acd30bdeddccafa41ecd2|0*117252*0xb33770ff1c10522f9491560174ac8e6c
+R=./src/modul sim.vhd|6
+Version=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+Version/ms_arh=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+
+[mux_2to1_top]
+A/behavioral=A/Behavioral 21|./src/mux21.vhd|11|1*1440569
+BinI32/behavioral=3*278829
+I=0*105409
+I/behavioral=I/Behavioral 0*105902
+M=11|0|v98|1558216867777|./src/mux21.vhd|0*105044*0x330383656a83928bb079397f04df67f9fe5af8d4|0*105331*0xab32bc1a2daf049573e14469f634e0e6
+M/behavioral=M/Behavioral 21|0|v98|1558261031205|./src/mux21.vhd|0*105632*0x20796fdba2fb960b42e73f4d17aa4a56422baa59|0*105810*0xb33770ff1c10522f9491560174ac8e6c
+R=./src/mux21.vhd|4
+Version=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+Version/behavioral=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+
+[nummin]
+A/nummin_arc=21|./src/nummin.vhd|14|1*1404612
+BinI32/nummin_arc=3*271898
+I=0*11481
+I/nummin_arc=0*12191
+M=11|0|v98|1558129173624|./src/nummin.vhd|0*11093*0x6fa52ca7fce6260915f99b6be8de98b526d5e958|0*11408*0xab32bc1a2daf049573e14469f634e0e6
+M/nummin_arc=21|0|v98|1558261030706|./src/nummin.vhd|0*11715*0xc5b83e0d7bd1f8f670ba36dee6f66471d26568fc|0*12104*0xb33770ff1c10522f9491560174ac8e6c
+R=./src/nummin.vhd|6
+Version=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+Version/nummin_arc=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+
+[numora]
+A/numora_arh=21|./src/numora.vhd|13|1*1406110
+BinI32/numora_arh=3*272457
+I=0*12976
+I/numora_arh=0*13649
+M=11|0|v98|1558129173679|./src/numora.vhd|0*12608*0x8165c5b045af6862535e9fa8c9615ecf52d58473|0*12903*0xab32bc1a2daf049573e14469f634e0e6
+M/numora_arh=21|0|v98|1558261030769|./src/numora.vhd|0*13210*0x3e8ae34174c78d21ec763ac46fd923fd8bd22702|0*13562*0xb33770ff1c10522f9491560174ac8e6c
+R=./src/numora.vhd|6
+Version=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+Version/numora_arh=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+
+[numsec]
+A/numsec_arc=21|./src/numsec.vhd|13|1*1407522
+BinI32/numsec_arc=3*272939
+I=0*14404
+I/numsec_arc=0*15073
+M=11|0|v98|1558129173739|./src/numsec.vhd|0*14052*0x95ab517c40b1a7921cb63802691afdacc919756a|0*14331*0xab32bc1a2daf049573e14469f634e0e6
+M/numsec_arc=21|0|v98|1558261030831|./src/numsec.vhd|0*14638*0x35a325c841fce8d63f91b6ae4c3d265e2c3a4771|0*14986*0xb33770ff1c10522f9491560174ac8e6c
+R=./src/numsec.vhd|6
+Version=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+Version/numsec_arc=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+
+[numtemp]
+A/numtemp_arh=21|./src/numtemp.vhd|13|1*1408735
+BinI32/numtemp_arh=3*273387
+I=0*15867
+I/numtemp_arh=0*16550
+M=11|0|v98|1558129173791|./src/numtemp.vhd|0*15493*0xc5c7551233e1536f51f7becc5c4f5c0bebfe1842|0*15792*0xab32bc1a2daf049573e14469f634e0e6
+M/numtemp_arh=21|0|v98|1558261030893|./src/numtemp.vhd|0*16102*0x5d3f4aa962e46dace0554d2b686a580ba724e908|0*16460*0xb33770ff1c10522f9491560174ac8e6c
+R=./src/numtemp.vhd|6
+Version=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+Version/numtemp_arh=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+
+[poarta_si]
+A/si=21|./src/andgate.vhd|11|1*1344650
+BinI32/si=3*258325
+I=0*524
+I/si=0*986
+M=11|0|v98|1558129173099|./src/andgate.vhd|0*178*0x158bae4ec76bed9b64ed7a2e6b895f8899ae84f2|0*447*0xab32bc1a2daf049573e14469f634e0e6
+M/si=21|0|v98|1558259906032|./src/andgate.vhd|0*761*0x83701520a4ad10f7c410a69159f97b8e48d59911|0*903*0xb33770ff1c10522f9491560174ac8e6c
+R=./src/andgate.vhd|6
+Version=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+Version/si=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+
+[raminfr]
+A/syn=21|./src/memram.vhd|14|1*1415431
+BinI32/syn=3*275212
+I=0*61764
+I/syn=0*62359
+M=11|0|v98|1558133064434|./src/memram.vhd|0*61326*0xf0cdcdc0d328bd7abe3c3b65c2f66d99898f5bb9|0*61690*0xab32bc1a2daf049573e14469f634e0e6
+M/syn=21|0|v98|1558261031018|./src/memram.vhd|0*61934*0xc0220b1824a91569a8a72d295ab7e075a80a732e|0*62278*0xb33770ff1c10522f9491560174ac8e6c
+R=./src/memram.vhd|5
+Version=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+Version/syn=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+
+[termostat]
+A/ex=21|./src/termostat.vhd|12|1*1417620
+BinI32/ex=3*275874
+I=0*106867
+I/ex=0*115614
+M=11|0|v98|1558217020598|./src/termostat.vhd|0*106413*0xda0ab73883c998617c2679439480fae5cb81061c|0*106788*0xab32bc1a2daf049573e14469f634e0e6
+M/ex=21|0|v98|1558261031081|./src/termostat.vhd|0*111660*0xca6a22121281f3724e40fcd4a5dd8ad9f344fbd2|0*115529*0xb33770ff1c10522f9491560174ac8e6c
+R=./src/termostat.vhd|4
+Version=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+Version/ex=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+
+[~A]
+ModifyID=2445
+Version=73
+
+[~MFT]
+0=336|0proiectfinal.mgf|117334|85479
+1=798|1proiectfinal.mgf|1440569|1390580
+3=796|3proiectfinal.mgf|278829|266319
+
+[~U]
+binarytobcd=BinaryToBCD 11|0*1226|
+clockprescaler=ClockPrescaler 11|0*7659|
+compare=11|0*3109|
+display=Display 11|0*5405|
+dmux_1t2=11|0*4366|
+eafisare=eAfisare 11|0*87936|
+eafisaredistanta=eAfisareDistanta 11|0*21990|
+fifo1_2=11|0*9146|
+ms=MS 11|0*72109|
+mux_2to1_top=11|0*104819|
+nummin=11|0*10901|
+numora=11|0*12436|
+numsec=11|0*13894|
+numtemp=11|0*15318|
+poarta_si=11|0*0|
+raminfr=11|0*61061|
+termostat=11|0*106019|
+

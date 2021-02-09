@@ -1,0 +1,40 @@
+Active-HDL 9.1.2353.4205  2019-05-19 13:17:03
+
+Elaboration top modules:
+Architecture                  ex(termostat)
+
+
+-----------------------------------------------------------------------------------------------------
+Entity         | Architecture | Library      | Info | Compiler Version         | Compilation Options
+-----------------------------------------------------------------------------------------------------
+termostat      | ex           | proiectfinal |      | 9.1.2353.4205  (Windows) | -O3
+ClockPrescaler | behavioral   | proiectfinal |      | 9.1.2353.4205  (Windows) | -O3
+numtemp        | numtemp_arh  | proiectfinal |      | 9.1.2353.4205  (Windows) | -O3
+numora         | numora_arh   | proiectfinal |      | 9.1.2353.4205  (Windows) | -O3
+mux_2to1_top   | behavioral   | proiectfinal |      | 9.1.2353.4205  (Windows) | -O3
+raminfr        | syn          | proiectfinal |      | 9.1.2353.4205  (Windows) | -O3
+compare        | behavioral   | proiectfinal |      | 9.1.2353.4205  (Windows) | -O3
+nummin         | nummin_arc   | proiectfinal |      | 9.1.2353.4205  (Windows) | -O3
+numsec         | numsec_arc   | proiectfinal |      | 9.1.2353.4205  (Windows) | -O3
+Display        | arch_display | proiectfinal |      | 9.1.2353.4205  (Windows) | -O3
+eAfisare       | aafisare     | proiectfinal |      | 9.1.2353.4205  (Windows) | -O3
+BinaryToBCD    | a            | proiectfinal |      | 9.1.2353.4205  (Windows) | -O3
+-----------------------------------------------------------------------------------------------------
+
+-----------------------------------------------------------------------------------------------------
+VHDL Package                  | Library      | Info | Compiler Version         | Compilation Options
+-----------------------------------------------------------------------------------------------------
+standard                      | std          |      |                          | <unavailable>
+TEXTIO                        | std          |      | 9.1.2353.4205  (Windows) |  -2008
+std_logic_1164                | ieee         |      | 9.1.2353.4205  (Windows) |  -2008
+std_logic_arith               | ieee         |      | 9.1.2353.4205  (Windows) | 
+STD_LOGIC_UNSIGNED            | ieee         |      | 9.1.2353.4205  (Windows) | 
+-----------------------------------------------------------------------------------------------------
+
+-----------------------------------------------------------------------------------------------------
+Library                       | Comment
+-----------------------------------------------------------------------------------------------------
+ieee                          | Standard IEEE packages library
+proiectfinal                  | None
+std                           | Standard VHDL library
+-----------------------------------------------------------------------------------------------------
